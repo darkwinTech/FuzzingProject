@@ -1,0 +1,3 @@
+afl_cov_pid     : 44
+afl_cov_version : 0.7.0
+command_line    : /usr/local/bin/afl-cov -d /home/aleen/Downloads/out_compress_small/default --coverage-cmd /home/aleen/Downloads/bzip2_cov -d AFL_FILE --code-dir /home/aleen/Downloads --afl-file AFL_FILE --overwrite --ignore-core-pattern
